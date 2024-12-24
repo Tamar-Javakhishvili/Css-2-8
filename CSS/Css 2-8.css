@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainContainer {
+    max-width: 1604px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 96px;
+    background: #FFAEAF;
+}
+
+.mainContainerMargin {
+    margin-top: 64px;
+    margin-bottom: 268px;
+}
+
+.mainContainerBackground {
+    max-width: 1412px;
+    width: 100%;
+    padding: 96px 0px;
+    background: #FFF;
+}
+
+
+ /*header*/
+
+
+.headerContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 32px;
+    text-align: center;
+    margin-bottom: 96px;
+}
+
+.blogHeader {
+    color: #ED00A6;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-bottom: 12px;
+}
+
+.mainHeader {
+    color: #181D27;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px; 
+    letter-spacing: -0.96px;
+    margin-bottom: 24px;
+}
+
+.mainText {
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 12px;
+}
+
+
+
+/*main*/
+
+
+.leftContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.leftContainerMargin {
+    margin-bottom: 96px;
+}
+
+.rightContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: right;
+    margin-bottom: 96px;
+}
+
+.image {
+    max-width: 600px;
+    width: 100%;
+}
